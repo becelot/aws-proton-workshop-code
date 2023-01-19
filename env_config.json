@@ -3,5 +3,10 @@
         "role": "arn:aws:iam::041535869329:role/ExampleGithubRole",
         "region": "us-east-1",
         "state_bucket":"aws-proton-terraform-bucket-041535869329"
+    },
+    "sample-lambda-function-template": {
+        "role": "arn:aws:iam::041535869329:role/ExampleGithubRole",
+        "region": "us-east-1",
+        "state_bucket":"aws-proton-terraform-bucket-041535869329"
     }
 }
